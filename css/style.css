@@ -171,6 +171,14 @@
   z-index: 1;
 }
 
+ .carousel-item {
+   text-align: center;
+ }
+
+ .carousel-item p {
+   font-style: italic;
+ }
+ 
 .carousel-control-prev,
 .carousel-control-next {
   width: 15%;
